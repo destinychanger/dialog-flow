@@ -151,3 +151,11 @@ html, body {
   position: relative;
   padding: 20px 50px;
 }
+
+
+.df-messenger {
+  z-index: 999;
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+}
