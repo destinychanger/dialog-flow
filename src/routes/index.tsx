@@ -9,7 +9,16 @@ export default function Home() {
         location="us"
         triggerId="searchWidgetTrigger">
       </gen-search-widget>
-
+     <df-messenger
+            location="us-central1"
+            project-id="ragsolution"
+            agent-id="f2d022b7-b0b8-4678-9110-d7ed5e705602"
+            class="df-messenger"
+            language-code="en">
+            <df-messenger-chat-bubble
+              chat-title="ramp">
+            </df-messenger-chat-bubble>
+      </df-messenger>
      
 <div class="wrapper">
   <div class="container">
