@@ -23,6 +23,8 @@ export default function Root() {
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         
         <script src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"></script>
+  <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+        <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css"></link>
 
       </Head>
       <Body>
